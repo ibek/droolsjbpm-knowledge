@@ -17,6 +17,7 @@
 
   <modules>
       <module>kie-drools-archetype</module>
+      <module>kjar-blank-archetype</module>
   </modules>
 
 </project>
